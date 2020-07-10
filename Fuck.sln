@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuck", "Fuck\Fuck.csproj", "{316F803D-1C58-4D56-BC6C-2AAA89BF27F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64C84DF9-C7A8-47F9-8293-3C63CE788804}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuckTesting", "FuckTesting\FuckTesting.csproj", "{E44B87E6-8578-487F-9BE5-C2384F2B7C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316F803D-1C58-4D56-BC6C-2AAA89BF27F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316F803D-1C58-4D56-BC6C-2AAA89BF27F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316F803D-1C58-4D56-BC6C-2AAA89BF27F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316F803D-1C58-4D56-BC6C-2AAA89BF27F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44B87E6-8578-487F-9BE5-C2384F2B7C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44B87E6-8578-487F-9BE5-C2384F2B7C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44B87E6-8578-487F-9BE5-C2384F2B7C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44B87E6-8578-487F-9BE5-C2384F2B7C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BE022C1-0FFE-4790-92BC-1DF2A469271C}
+	EndGlobalSection
+EndGlobal
